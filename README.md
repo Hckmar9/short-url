@@ -1,16 +1,12 @@
-  <h3 align="center">URL Shortener</h3>
-
-  <p align="center">
-    Just a basic app to keep practicing pure js.
-  </p>
+# Shorty
+<div align="center">
+  <a href="#">
+    <img src="url.jpg" alt="about-me" width="300" height="200">
+  </a>
 </div>
 
-<!-- LICENSE -->
-## License
+This is a basic url shortener similar to bitly but without the stats. The good part about it is that nothing is kept on any servers. However, url expires only when the app is turned off.
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+This was pure JS.
 
-<!-- CONTACT -->
-## Contact
-
-Tere Díaz - [@hckmar](https://twitter.com/hckmar)
+_This is a work in progress. I'm planning to make it more robust._
